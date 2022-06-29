@@ -25,7 +25,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
@@ -55,8 +55,8 @@ global.packname = "Sticker by"
 global.author = "ArullOfc"
 global.themeemoji = "🐶"
 global.reactmoji = "😎"
-global.ownertag = ['85822347348'] //ur owner tag
-global.ownernummenu = ['085822347348'] //ur owner number in menu and all
+global.ownertag = ['ArullOfc'] //ur owner tag
+global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
 global.watermark = "ArullBotzMD" //ur watermark
 global.botscript = "_"
 global.linkz1 = ""
