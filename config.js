@@ -58,9 +58,9 @@ global.reactmoji = "😎"
 global.ownertag = ['ArullOfc'] //ur owner tag
 global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
 global.watermark = "ArullBotzMD" //ur watermark
-global.botscript = "_"
-global.linkz1 = ""
-global.linkz2 = ""
+global.botscript = "https://youtu.be/Gr6yuCbSGTI"
+global.linkz1 = "https://youtu.be/xpd09WhxGA8"
+global.linkz2 = "https://youtu.be/xpd09WhxGA8"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
