@@ -41,23 +41,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6282158549899'] //ur owner number
-global.ownername = "Muhammad Reihan Saputra"
-global.ytname = "YT : あAkira" //ur yt chanel name
-global.socialm = "GitHub : AkiRaID" //ur github or insta name
-global.location = "Indonesia, Kalimantan Tengah, Kabupaten Katingan" //ur location
+global.owner = ['6282164733480'] //ur owner number
+global.ownername = "IBALL YTTA
+global.ytname = "YT : Gada" //ur yt chanel name
+global.socialm = "GitHub : Gada" //ur github or insta name
+global.location = "Indonesia, Sumatera Utara, Kabupaten Langkat, Brandan Barat" //ur location
 
 //bot bombdy
-global.botname = "あAkiraBot MD" //ur bot name
-global.websitex = "https://youtube.com/channel/UCvVd-kAsrJUjg0bwKqxUPeg" //ur website
+global.botname = "IBALL-BOTZ" //ur bot name
+global.websitex = "https://youtube.com/channel/UCvVd-khwhwAsrJUjg0bwKqxUPeg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker by"
-global.author = "あAkira"
+global.author = "IBALL"
 global.themeemoji = "🐶"
 global.reactmoji = "😎"
-global.ownertag = ['Akira'] //ur owner tag
-global.ownernummenu = ['6282158549899'] //ur owner number in menu and all
-global.watermark = "あAkiraBot MD" //ur watermark
+global.ownertag = ['Iball'] //ur owner tag
+global.ownernummenu = ['6282164733480'] //ur owner number in menu and all
+global.watermark = "Iball" //ur watermark
 global.botscript = "https://github.com/AkiRaID"
 global.linkz1 = "https://youtube.com/channel/UCvVd-kAsrJUjg0bwKqxUPeg"
 global.linkz2 = "https://youtube.com/channel/UCvVd-kAsrJUjg0bwKqxUPeg"
